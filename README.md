@@ -1,5 +1,4 @@
 # Studi kasus array 1 dimensi
-![image](https://github.com/user-attachments/assets/28240950-fa27-4f22-8733-2dff73fb07a0)
-
+![image](https://github.com/user-attachments/assets/4a3ba8a5-fcf3-4f13-a72b-22d7a5646653)
 # Studi kasus array 2 dimensi
-![image](https://github.com/user-attachments/assets/74bd8c14-f3fd-4ad0-9128-c9dce206c50e)
+(![image](https://github.com/user-attachments/assets/8765b443-59b3-416b-9c24-fecfad23c7c0)
